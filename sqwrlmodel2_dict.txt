@@ -1,0 +1,5 @@
+0 person
+1 cat
+2 bird
+3 squirrel
+4 dog
